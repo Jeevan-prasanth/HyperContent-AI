@@ -8,7 +8,7 @@ from clarifai_grpc.grpc.api import resources_pb2, service_pb2, service_pb2_grpc
 from clarifai_grpc.grpc.api.status import status_code_pb2
 
 # Clarifai API configuration
-PAT = "966e7de8f2ee46e3ad9e8f789763cecb"
+PAT = ""
 USER_ID = 'openai'
 APP_ID = 'chat-completion'
 MODEL_ID = 'gpt-4o'
