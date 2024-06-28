@@ -5,7 +5,7 @@ from clarifai_grpc.grpc.api import resources_pb2, service_pb2, service_pb2_grpc
 from clarifai_grpc.grpc.api.status import status_code_pb2
 
 # Environment variables or hardcoded values
-CLARIFAI_PAT = os.getenv('CLARIFAI_PAT', '966e7de8f2ee46e3ad9e8f789763cecb')
+CLARIFAI_PAT = os.getenv('CLARIFAI_PAT', '')
 USER_ID = 'openai'
 APP_ID = 'chat-completion'
 MODEL_ID = 'gpt-4o'
