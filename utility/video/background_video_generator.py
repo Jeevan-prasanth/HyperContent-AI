@@ -2,7 +2,7 @@ import os
 import requests
 from utility.utils import log_response,LOG_TYPE_PEXEL
 
-PEXELS_API_KEY = "5Kw4jTJWvDGNkq8N73uE3LFaBt8tUbPwFUJNwV6y5sTsFNY3zOsORecy"
+PEXELS_API_KEY = ""
 
 def search_videos(query_string, orientation_landscape=True):
    
