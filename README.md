@@ -1,6 +1,7 @@
 ### Hypercontent AI
 
-Hypercontent AI is an advanced General Artificial Intelligence (Gen AI) project designed to generate hyper-personalized content across various media types. Leveraging cutting-edge natural language processing and machine learning techniques, this project aims to revolutionize content generation.
+Hypercontent AI is an advanced General Artificial Intelligence (Gen AI) project designed to generate hyper-personalized content across various media types. Leveraging advanced AI
+models, it automates content generation to streamline creative processes and enhance productivity. This project aims to revolutionize content generation.
 
 #### Technologies Used
 - Python
