@@ -12,7 +12,7 @@ models, it automates content generation to streamline creative processes and enh
 - Google Generative AI
 
 #### Features
-- **Multi-modal Content Generation:** Capable of generating text, images, and audio content.
+- **Multi-modal Content Generation:** Capable of generating video, text, images, and audio content.
 - **Personalization:** Tailors content based on user preferences and input.
 - **Interactive Interface:** Utilizes Streamlit for a user-friendly interactive experience.
 - **Scalable Architecture:** Built to handle large-scale data and computations effectively.
